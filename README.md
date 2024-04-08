@@ -1,4 +1,7 @@
+
 ### Hi there 👋
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_the__sparkle_33/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhoomiya-sk/)
 
 <h1 align="center">Hi 👋, I'm Bhoomiya S K</h1>
 <h3 align="center">I am an Frontend Developer with the Passion of Learning</h3>
@@ -9,7 +12,6 @@
 
 - 📫 How to reach me **bhoomiya1503@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1BErV2qa3jCP0qft3C_iofHgEQKkH__N6YH2yGhfWE_o/edit#heading=h.ymi089liagec](https://docs.google.com/document/d/1BErV2qa3jCP0qft3C_iofHgEQKkH__N6YH2yGhfWE_o/edit#heading=h.ymi089liagec)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
