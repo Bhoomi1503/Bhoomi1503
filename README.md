@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_the__sparkle_33/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhoomiya-sk/)
 
 <h1 align="center">Hi 👋, I'm Bhoomiya S K</h1>
-<h3 align="center">I am an Frontend Developer with the Passion of Learning</h3>
+<h3 align="center">I am an Full Stack Developer with the Passion of Learning</h3>
 
 - 🌱 I’m currently learning **Full Stack Development**
 
