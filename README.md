@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Bhoomi1503.Bhoomi1503" />
 <p align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture></p>
 <h1 align="center">Hi 👋, I'm Bhoomiya S K</h1>
 <h3 align="center">I am an Full Stack Developer with the Passion of Learning</h3>
@@ -48,3 +49,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhoomi1503&show_icons=true&locale=en" alt="bhoomi1503" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhoomi1503&" alt="Bhoomi1503" /></p>
+
+
+
